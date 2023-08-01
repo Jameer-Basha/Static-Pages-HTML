@@ -1,0 +1,183 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 100%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+.photo-and-name {
+    /**/
+}
+
+/* .photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+}*/
+
+.contact-info-box {
+    width: 50.9%;
+    display: inline-block;
+}
+p{
+    font-size: 18px !important; 
+    color:black;
+    
+}
+.name {
+    margin-bottom: -5px;
+    
+    
+}
+
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 18px;
+    font-family : Times New Roman;
+}
+.header-right {
+    width: 100%;
+    display: grid;
+    justify-items: end;
+    
+    
+  }
+
+#objective {
+    
+}
+
+#objective h3 {
+    border: 1px solid black;
+    text-transform: uppercase;
+    
+    border-radius: 5px;
+    margin: 30px 0 30px;
+    width:100%;
+    padding:10px 5px 5px 10px;
+    
+
+    
+    
+}
+
+#objective p {
+   
+    padding: 5px;
+    line-height: 25px;
+    font-size: 15px;
+    color:black;
+}
+
+#education h3 {
+    border: 1px solid black;
+    text-transform: uppercase;
+   
+    border-radius: 5px;
+    margin: 30px 0 30px;
+    width:100%;
+    padding:10px 5px 5px 10px;
+}
+.edu {
+    padding : 5px ;
+    border: 1px solid black;
+    
+}
+
+ /*  #education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+    border: 1px solid blue;
+}
+#education table tr{ 
+    padding 
+    
+}
+
+ #education table tr.school-1 td:first-child {
+    
+    color: gray;
+    padding-bottom: 25px;
+    border : 1px solid black;
+}
+
+#education table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+    border: 1px solid black;
+}
+  */
+#work h3 {
+    border: 1px solid black;
+    text-transform: uppercase;
+    
+    border-radius: 5px;
+    margin: 30px 0 30px;
+    width:100%;
+    padding:10px 5px 5px 10px;
+}
+
+#work table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#work table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#work table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#work table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#bio-data h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 30px;
+    width:100%;
+    border: 1px solid black;
+}
+
+#bio-data table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#bio-data table tr td:first-child {
+    width: 200px;
+}
+
+#bio-data table tr td:nth-child(2) {
+    width: 300px;
+}
+ul li {
+    color : black;
+}

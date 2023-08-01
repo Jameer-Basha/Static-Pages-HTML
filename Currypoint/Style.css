@@ -1,0 +1,107 @@
+body{
+    margin:40px;
+}
+h1{
+    font-size:70px;
+    
+    text-align: center;
+    background-color:#ffcccc;
+}
+
+h2{
+    background-color:#ffe6cc;
+    margin: auto;
+    align:center;
+    width:50%;
+    font-size:35px;
+    font-variant:small-caps;
+}
+h3,h4,h5{
+    display:inline;
+    padding-right:4%;
+    background-color:#66ffff;
+    font-size: 30px;
+          
+}
+.nav{
+    width: 100%;
+    list-style-type:none;
+    
+    overflow:hidden;
+  
+}
+.nav li {
+    float :left;
+}
+.nav li a {
+    display:block;
+    text-align:center;
+    padding: 20px 75px;
+    text-decoration:none;
+    background-color:#ccffeb;
+    font-size:40px;
+    color:#000000;
+    font-weight:bold;
+}
+.nav li a:hover{
+    background-color:#ff99ff;
+}
+p{
+
+    font-size:22px;
+}
+img{
+    border-radius:20px ;
+}
+
+.na{
+
+    align-items:center;
+    margin:auto;
+    width:65%;
+    list-style-type:none;
+    font-size:28px;
+    font-family:'Trebuchet MS';
+}
+.na ul li {
+   color:#00004d;
+   font-size:20px;
+   background-color:#ffffcc;
+   list-style-type:none;
+   padding-left:5%;
+   padding-bottom:5%;
+   padding-top:5px;
+   font-family:'Times New Roman';
+   font-weight:bold;
+   
+   
+    
+}
+
+section fieldset{
+    margin:auto;
+    text-align:center;
+    width:55%;
+    background-color: #ffffb3;
+    border-color:black;
+    
+    
+}
+legend{
+    font-weight: bold;
+}
+section fieldset label{
+    padding-right:2.1%;
+    font-size:20px;
+}
+button{
+    background-color:white;
+    color:black;
+    border:2px solid blue;
+    text-align:center;
+    margin-left:46%;
+    font-size:22px
+    
+
+    
+}
